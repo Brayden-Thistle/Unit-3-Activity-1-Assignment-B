@@ -18,6 +18,6 @@ console.log("The base cost of the meal is $" + meal + ". With a 13% HST rate the
 let TotalCost: number = 410.63
 
 // the meal split amongst 5 people
-console.log("since there are " + splitters + "people splitting the bill. The total comes to $" + (TotalCost / splitters) + " per person.");
+console.log("since there are " + splitters + " people splitting the bill. The total comes to $" + (TotalCost / splitters) + " per person.");
 
 console.log("\nDone.");
